@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travelNtourism/static/css/main.46ad24ce.css",
+    "main.js": "/travelNtourism/static/js/main.3335cd74.js",
+    "static/media/maldivesVideo.mp4": "/travelNtourism/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
+    "static/media/keywest.jpg": "/travelNtourism/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/travelNtourism/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/travelNtourism/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/travelNtourism/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/travelNtourism/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/travelNtourism/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/gold.png": "/travelNtourism/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "static/media/gollogo.jpg": "/travelNtourism/static/media/gollogo.1bc8a9dbfd9377f0448e.jpg",
+    "index.html": "/travelNtourism/index.html",
+    "main.46ad24ce.css.map": "/travelNtourism/static/css/main.46ad24ce.css.map",
+    "main.3335cd74.js.map": "/travelNtourism/static/js/main.3335cd74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46ad24ce.css",
+    "static/js/main.3335cd74.js"
+  ]
+}
